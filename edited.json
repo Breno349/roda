@@ -1,0 +1,540 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+        },
+        "updated": {
+            "$t": "2016-07-03T22:43:56.539Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "Palavras"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/d/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values?alt=json"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "thiagonascimento.uece"
+                },
+                "email": {
+                    "$t": "thiagonascimento.uece@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "27"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "teste 1 "
+                },
+                "gsx$word2": {
+                    "$t": "aroz e feirjao"
+                },
+                "gsx$word3": {
+                    "$t": "7172"
+                },
+                "gsx$word4": {
+                    "$t": "garrafa dagua"
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "teste 1 ,aroz e feirjao,7172,garrafa dagua"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "teste 1 "
+                },
+                "gsx$word2": {
+                    "$t": "aroz e feirjao"
+                },
+                "gsx$word3": {
+                    "$t": "7172"
+                },
+                "gsx$word4": {
+                    "$t": "garrafa dagua"
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "teste 1 ,aroz e feirjao,7172,garrafa dagua"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "teste 1 "
+                },
+                "gsx$word2": {
+                    "$t": "aroz e feirjao"
+                },
+                "gsx$word3": {
+                    "$t": "7172"
+                },
+                "gsx$word4": {
+                    "$t": "garrafa dagua"
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "teste 1 ,aroz e feirjao,7172,garrafa dagua"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "teste 1 "
+                },
+                "gsx$word2": {
+                    "$t": "aroz e feirjao"
+                },
+                "gsx$word3": {
+                    "$t": "7172"
+                },
+                "gsx$word4": {
+                    "$t": "garrafa dagua"
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "teste 1 ,aroz e feirjao,7172,garrafa dagua"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "teste 1 "
+                },
+                "gsx$word2": {
+                    "$t": "aroz e feirjao"
+                },
+                "gsx$word3": {
+                    "$t": "7172"
+                },
+                "gsx$word4": {
+                    "$t": "garrafa dagua"
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "teste 1 ,aroz e feirjao,7172,garrafa dagua"
+                }
+            }
+        ]
+    }
+}
