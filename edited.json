@@ -1,0 +1,5005 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+        },
+        "updated": {
+            "$t": "2016-07-03T22:43:56.539Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "Palavras"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/d/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values?alt=json"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "thiagonascimento.uece"
+                },
+                "email": {
+                    "$t": "thiagonascimento.uece@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "27"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "armazenamento de dinheiro"
+                },
+                "gsx$word1": {
+                    "$t": "poupan\u00e7a"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "poupan\u00e7a"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "a renda escolar que os seus respons\u00e1veis recebem"
+                },
+                "gsx$word1": {
+                    "$t": "Bolsa fam\u00edlia"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Bolsa fam\u00edlia"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "reduzir gastos desnecess\u00e1rios"
+                },
+                "gsx$word1": {
+                    "$t": "economizar"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "economizar"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "possuem no banco al\u00e9m do dinheiro"
+                },
+                "gsx$word1": {
+                    "$t": "conta banc\u00e1ria"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "conta banc\u00e1ria"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "transfer\u00eancia de dinheiro digital"
+                },
+                "gsx$word1": {
+                    "$t": "pix"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "pix"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "Tipo de cart\u00e3o"
+                },
+                "gsx$word1": {
+                    "$t": "d\u00e9bito"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "d\u00e9bito"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "Sistema de pagamento de conta que come\u00e7a com B"
+                },
+                "gsx$word1": {
+                    "$t": "Boleto"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Boleto"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "C\u00e9dula com valor financeiro"
+                },
+                "gsx$word1": {
+                    "$t": "Dinheiro"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Dinheiro"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "quando se tem que pagar algu\u00e9m"
+                },
+                "gsx$word1": {
+                    "$t": "D\u00edvida"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "D\u00edvida"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pagou o dinheiro e tem que pagar com juros"
+                },
+                "gsx$word1": {
+                    "$t": "empr\u00e9stimo"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "empr\u00e9stimo"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "quando n\u00e3o se tem mais o dinheiro"
+                },
+                "gsx$word1": {
+                    "$t": "Fal\u00eancia"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Fal\u00eancia"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pagamento em pequenas partes de algo"
+                },
+                "gsx$word1": {
+                    "$t": "Parcela"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Parcela"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "gastar dinheiro com o objetivo de conseguir mais"
+                },
+                "gsx$word1": {
+                    "$t": "investimento"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "investimento"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "margem de ganho em cima de algo"
+                },
+                "gsx$word1": {
+                    "$t": "Lucro"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Lucro"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro recebido dos pais"
+                },
+                "gsx$word1": {
+                    "$t": "Mesada"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Mesada"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "papel recebido ao final de uma compra"
+                },
+                "gsx$word1": {
+                    "$t": "nota fiscal"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "nota fiscal"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro dado por algum servi\u00e7o"
+                },
+                "gsx$word1": {
+                    "$t": "pagamento"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "pagamento"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "valor dado a um produto"
+                },
+                "gsx$word1": {
+                    "$t": "pre\u00e7o"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "pre\u00e7o"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "margem de dinheiro perdido"
+                },
+                "gsx$word1": {
+                    "$t": "preju\u00edzo"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "preju\u00edzo"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "quanto se recebe no m\u00eas"
+                },
+                "gsx$word1": {
+                    "$t": "Sal\u00e1rio"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Sal\u00e1rio"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "quanto se tem no banco"
+                },
+                "gsx$word1": {
+                    "$t": "Saldo"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "Saldo"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "palavra que se refere a tirar o dinheiro do banco"
+                },
+                "gsx$word1": {
+                    "$t": "saque"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "saque"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "onde voc\u00ea guarda dinheiro e moedas em casa"
+                },
+                "gsx$word1": {
+                    "$t": "cofre"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "cofre"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro dado pelo governo a pessoas em necessidade"
+                },
+                "gsx$word1": {
+                    "$t": "aux\u00edlio"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "aux\u00edlio"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "aplicativo para controle de gastos"
+                },
+                "gsx$word1": {
+                    "$t": "finan\u00e7as"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "finan\u00e7as"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro emprestado para comprar casa"
+                },
+                "gsx$word1": {
+                    "$t": "hipoteca"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "hipoteca"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "a\u00e7\u00e3o de guardar dinheiro para o futuro"
+                },
+                "gsx$word1": {
+                    "$t": "poupan\u00e7a"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "poupan\u00e7a"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro dado a um funcion\u00e1rio"
+                },
+                "gsx$word1": {
+                    "$t": "sal\u00e1rio"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "sal\u00e1rio"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pagamento pelo uso de cart\u00e3o"
+                },
+                "gsx$word1": {
+                    "$t": "tarifa"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "tarifa"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "documento que mostra todos os gastos do m\u00eas"
+                },
+                "gsx$word1": {
+                    "$t": "extrato"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "extrato"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "percentual que aumenta o valor de uma d\u00edvida"
+                },
+                "gsx$word1": {
+                    "$t": "juros"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "juros"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "programa de ajuda ao estudante"
+                },
+                "gsx$word1": {
+                    "$t": "bolsa"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "bolsa"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "gastos necess\u00e1rios como \u00e1gua e luz"
+                },
+                "gsx$word1": {
+                    "$t": "contas"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "contas"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "documento para controle de despesas"
+                },
+                "gsx$word1": {
+                    "$t": "or\u00e7amento"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "or\u00e7amento"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pagamento para governo sobre compras e rendas"
+                },
+                "gsx$word1": {
+                    "$t": "imposto"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "imposto"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "redu\u00e7\u00e3o de pre\u00e7o de um produto"
+                },
+                "gsx$word1": {
+                    "$t": "desconto"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "desconto"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro extra dado por um servi\u00e7o bem feito"
+                },
+                "gsx$word1": {
+                    "$t": "gorjeta"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "gorjeta"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "compra de produtos para revenda"
+                },
+                "gsx$word1": {
+                    "$t": "estoque"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "estoque"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "quantidade de dinheiro que se pode gastar"
+                },
+                "gsx$word1": {
+                    "$t": "limite"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "limite"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pagar o que deve"
+                },
+                "gsx$word1": {
+                    "$t": "quita\u00e7\u00e3o"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "quita\u00e7\u00e3o"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "ponto onde se guarda dinheiro em lojas"
+                },
+                "gsx$word1": {
+                    "$t": "caixa"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "caixa"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "programa de devolu\u00e7\u00e3o de parte do dinheiro gasto"
+                },
+                "gsx$word1": {
+                    "$t": "cashback"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "cashback"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "documento que mostra os ganhos e gastos"
+                },
+                "gsx$word1": {
+                    "$t": "demonstrativo"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "demonstrativo"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "investimento em propriedades"
+                },
+                "gsx$word1": {
+                    "$t": "im\u00f3veis"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "im\u00f3veis"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "fazer um bom uso do dinheiro"
+                },
+                "gsx$word1": {
+                    "$t": "gest\u00e3o"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "gest\u00e3o"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "pessoa que cuida das finan\u00e7as"
+                },
+                "gsx$word1": {
+                    "$t": "contador"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "contador"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "renda que vem de investimentos"
+                },
+                "gsx$word1": {
+                    "$t": "dividendos"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "dividendos"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "dinheiro destinado a despesas espec\u00edficas"
+                },
+                "gsx$word1": {
+                    "$t": "fundo"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "fundo"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "previs\u00e3o de despesas e receitas"
+                },
+                "gsx$word1": {
+                    "$t": "planejamento"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "planejamento"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "separar uma parte do sal\u00e1rio para n\u00e3o gastar"
+                },
+                "gsx$word1": {
+                    "$t": "reserva"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "reserva"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "risco financeiro"
+                },
+                "gsx$word1": {
+                    "$t": "perda"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "perda"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2016-07-03T22:43:56.539Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "carro"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "word1: motor, word2: pneu, word3: farol, word4: direcao, word5: porta, word6: amortecedor, word7: freio, words: motor,pneu,farol,direcao,porta,amortecedor,freio"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1K8wj7aNKI4hFHJIxegxAhbbhOF5zYqvMDiHKkmj8jfc/od6/public/values/cokwr"
+                    }
+                ],
+                "gsx$hint": {
+                    "$t": "forma de pagamento antes de receber o produto"
+                },
+                "gsx$word1": {
+                    "$t": "adiantamento"
+                },
+                "gsx$word2": {
+                    "$t": ""
+                },
+                "gsx$word3": {
+                    "$t": ""
+                },
+                "gsx$word4": {
+                    "$t": ""
+                },
+                "gsx$word5": {
+                    "$t": ""
+                },
+                "gsx$word6": {
+                    "$t": ""
+                },
+                "gsx$word7": {
+                    "$t": ""
+                },
+                "gsx$word8": {
+                    "$t": ""
+                },
+                "gsx$word9": {
+                    "$t": ""
+                },
+                "gsx$word10": {
+                    "$t": ""
+                },
+                "gsx$word11": {
+                    "$t": ""
+                },
+                "gsx$word12": {
+                    "$t": ""
+                },
+                "gsx$word13": {
+                    "$t": ""
+                },
+                "gsx$word14": {
+                    "$t": ""
+                },
+                "gsx$word15": {
+                    "$t": ""
+                },
+                "gsx$word16": {
+                    "$t": ""
+                },
+                "gsx$word17": {
+                    "$t": ""
+                },
+                "gsx$word18": {
+                    "$t": ""
+                },
+                "gsx$word19": {
+                    "$t": ""
+                },
+                "gsx$word20": {
+                    "$t": ""
+                },
+                "gsx$words": {
+                    "$t": "adiantamento"
+                }
+            }
+        ]
+    }
+}
